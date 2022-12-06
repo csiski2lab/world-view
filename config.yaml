@@ -1,0 +1,31 @@
+weight: save/weight.h5
+dataset:
+   train: ../datasets/assets1
+   label: ../datasets/assets1/train.yaml
+   test: E:\ResearchProjects\AssetConversion\GAN\datasets\assets1\mix2
+   dir: 
+      - game1
+      - game6
+      - game9
+      - game14
+      - game3
+      - game10
+      - anime1
+      - anime2
+      - anime3
+      - anime4
+      - anime5
+      - anime6
+      - game2
+      - game5
+      - game11
+      - game13
+      - real1
+      - real2
+      - real3
+      - game4
+      - game7
+      - game8
+      - game12
+      - game15
+      - game16
